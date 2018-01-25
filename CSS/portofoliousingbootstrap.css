@@ -63,7 +63,28 @@ ol li{
 .center{
     text-align: center;
 }
+.thumbnail{
+ background-color:#397249;
+ padding-top:25px;
+ height:220px;
+ width:340px;
 
+}
+a:hover{
+color:#000060;
+}
+.imgClass{
+height:200px;
+width:240px;}
+.imgClass1{
+height:200px;
+width:240px;
+padding-top:30px;
+padding-bottom:30px;
+}
+.imageBorder{
+border:3px solid #006400;
+}
 
 
 
